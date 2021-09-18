@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bluishsour
+- 👀 I’m interested in programming and 3D modeling
+- 🌱 I’m currently learning С++,rasberry pi, arduino
+- 📫 How to reach me - bluishsour@gmail.com
